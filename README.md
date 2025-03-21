@@ -34,8 +34,8 @@ testVivetix/
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/manolo1800/testVivetix.git
+cd testVivetix
 ```
 
 ### 2️⃣ Instalar Dependencias
